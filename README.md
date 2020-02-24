@@ -7,3 +7,4 @@ A collection of code I have written to automate basic data cleaning processes.
 - Python 3
 - Microsoft Excel
 ### Packages
+pandas
